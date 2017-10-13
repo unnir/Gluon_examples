@@ -16,9 +16,10 @@ or [NbViewer](http://nbviewer.jupyter.org/github/unnir/Gluon_examples/blob/maste
 
 ### Regression using Gluon 
 
-Boston regression dataset. 
 
-A multi-layer NN with batch normalization. The code can be found:
+A multi-layer NN with batch normalization. Boston regression dataset. 
+
+The code can be found:
 
 [GitHub](https://github.com/unnir/Gluon_examples/blob/master/Boston_Regression_example.ipynb) 
 or [NbViewer](http://nbviewer.jupyter.org/github/unnir/Gluon_examples/blob/master/Boston_Regression_example.ipynb)
