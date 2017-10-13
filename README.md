@@ -4,7 +4,7 @@ Deep learning examples using Gluon API.
 
 ### Binary Classification using Gluon 
 
-A three layers NN with batch normalization. 
+A multi-layer NN with batch normalization. 
 
 The code can be found:
 
